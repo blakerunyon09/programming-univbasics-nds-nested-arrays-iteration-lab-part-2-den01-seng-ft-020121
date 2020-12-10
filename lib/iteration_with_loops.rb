@@ -1,3 +1,5 @@
+array_2[1].length
+
 def find_min_in_nested_arrays(src)
   lowest_list = []
   count = 0
@@ -34,5 +36,3 @@ array_2 = [
 ]
 
 find_min_in_nested_arrays(array_2)
-
-array_2[1].length
