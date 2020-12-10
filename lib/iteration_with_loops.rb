@@ -13,7 +13,7 @@ def find_min_in_nested_arrays(src)
     lowest_list.push(lowest_num)
     count += 1
   end
-  lowest_list
+  p lowest_list
 end
 
 
